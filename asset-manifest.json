@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kalimi-monster/static/css/main.6cc8d6d1.chunk.css",
+    "main.js": "/kalimi-monster/static/js/main.2b29704f.chunk.js",
+    "main.js.map": "/kalimi-monster/static/js/main.2b29704f.chunk.js.map",
+    "runtime-main.js": "/kalimi-monster/static/js/runtime-main.1440f473.js",
+    "runtime-main.js.map": "/kalimi-monster/static/js/runtime-main.1440f473.js.map",
+    "static/js/2.1dd3ea96.chunk.js": "/kalimi-monster/static/js/2.1dd3ea96.chunk.js",
+    "static/js/2.1dd3ea96.chunk.js.map": "/kalimi-monster/static/js/2.1dd3ea96.chunk.js.map",
+    "static/js/3.3725ecac.chunk.js": "/kalimi-monster/static/js/3.3725ecac.chunk.js",
+    "static/js/3.3725ecac.chunk.js.map": "/kalimi-monster/static/js/3.3725ecac.chunk.js.map",
+    "index.html": "/kalimi-monster/index.html",
+    "static/css/main.6cc8d6d1.chunk.css.map": "/kalimi-monster/static/css/main.6cc8d6d1.chunk.css.map",
+    "static/js/2.1dd3ea96.chunk.js.LICENSE.txt": "/kalimi-monster/static/js/2.1dd3ea96.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1440f473.js",
+    "static/js/2.1dd3ea96.chunk.js",
+    "static/css/main.6cc8d6d1.chunk.css",
+    "static/js/main.2b29704f.chunk.js"
+  ]
+}
